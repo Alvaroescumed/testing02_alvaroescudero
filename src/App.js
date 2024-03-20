@@ -15,7 +15,7 @@ function App() {
     },
     {
       id: 1,
-      name: 'Chachopo',
+      name: 'Cachopo',
       price: 30,
     },
   ]
